@@ -13,3 +13,9 @@ Click on each slice of the pyramid to see what tools do we have in that space
     <area target="" alt="" title="" href="https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedComponentTests.md" coords="334,551,871,635" shape="rect">
     <area target="" alt="" title="" href="https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedUnitTests.md" coords="279,674,945,754" shape="rect">
 </map>
+
+* [Automated GUI Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedGUITests.md)
+* [Automated API Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedAPITests.md)
+* [Automated Integration Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedIntegrationTests.md)
+* [Automated Component Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedComponentTests.md)
+* [Automated Unit Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedUnitTests.md)
