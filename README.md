@@ -20,3 +20,4 @@ Click on each slice of the pyramid to see what tools do we have in that space
 * [Automated Component Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedComponentTests.md)
 * [Automated Unit Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedUnitTests.md)
 
+<img src="https://user-images.githubusercontent.com/8856857/30575777-696b75de-9d46-11e7-89e4-53a43c286969.JPG">
