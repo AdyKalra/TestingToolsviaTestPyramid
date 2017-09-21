@@ -6,6 +6,7 @@ This package includes the NUnit 3 framework assembly, which is referenced by you
 To discover and execute tests install MSTest.TestAdapter. 
 To discover and execute tests for project.json based projects install dotnet-test-mstest.
 
+link add!
 
 ### Java 
 *
