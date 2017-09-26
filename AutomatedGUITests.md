@@ -13,6 +13,8 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 
 * Atata - C#/.NET automated web testing full featured framework
 
+* CodedUI - MSDN test automation library https://msdn.microsoft.com/en-us/library/ff977233.aspx
+
 ### Java 
 *
 
