@@ -15,6 +15,12 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 
 * CodedUI - MSDN test automation library https://msdn.microsoft.com/en-us/library/ff977233.aspx
 
+* Winium - C# Framework for automated testing of Windows application based on WinFroms and WPF platforms. https://github.com/2gis/Winium.Cruciatus
+
+* TestStack.White - White is a framework for automating rich client applications based on Win32, WinForms, WPF, Silverlight and SWT (Java) platforms. It is .NET based and does not require the use of any proprietary scripting languages. Tests/automation programs using White can be written with whatever .NET language, IDE and tools you are already using. White provides a consistent object-oriented API, hiding the complexity of Microsoft's UIAutomation library (on which White is based) and windows messages. https://github.com/TestStack/White
+
+* AutoIt - Automation using COM
+
 ### Java 
 *
 
