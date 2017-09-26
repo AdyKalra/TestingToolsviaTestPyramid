@@ -6,7 +6,11 @@ This package includes the NUnit 3 framework assembly, which is referenced by you
 To discover and execute tests install MSTest.TestAdapter. 
 To discover and execute tests for project.json based projects install dotnet-test-mstest.
 
-link add!
+* xUnit.net - is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin.
+
+* mb-unit - The Gallio Automation Platform is an open, extensible, and neutral system for .NET that provides a common object model, runtime services and tools (such as test runners) that may be leveraged by any number of test frameworks.
+MbUnit is an extensible unit testing framework for the .NET Framework that takes in and goes beyond xUnit pattern testing. MbUnit is part of the Gallio bundle.
+
 
 ### Java 
 *
