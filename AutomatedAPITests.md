@@ -18,4 +18,3 @@
 
 ### Ruby 
 *
-mobile not here
