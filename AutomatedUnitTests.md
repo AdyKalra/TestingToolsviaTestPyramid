@@ -11,6 +11,11 @@ To discover and execute tests for project.json based projects install dotnet-tes
 * mb-unit - The Gallio Automation Platform is an open, extensible, and neutral system for .NET that provides a common object model, runtime services and tools (such as test runners) that may be leveraged by any number of test frameworks.
 MbUnit is an extensible unit testing framework for the .NET Framework that takes in and goes beyond xUnit pattern testing. MbUnit is part of the Gallio bundle.
 
+* Ncover - Code Coverage tool
+
+* OpenCover - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points 
+
+* 
 
 ### Java 
 *
