@@ -18,5 +18,3 @@
 
 ### Ruby 
 *
-
-add mobile
