@@ -28,3 +28,5 @@ https://www.browserstack.com/
 
 ### ScreenDiff
 * BackTrac - Monitor visual changes on your website - http://backtrac.io/
+
+* Applitools - Leverage your existing tests,automatically validates the look and feel and user experience of your apps and sites. It is designed to integrate with your existing tests rather than requiring you to create new tests or learn a new test automation language. Validate entire application pages at a time with a single line of code. We support all major test automation frameworks and programming languages covering web, mobile, and desktop apps. https://applitools.com/
