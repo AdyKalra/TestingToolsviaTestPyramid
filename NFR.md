@@ -2,7 +2,7 @@
 * Loader - Simple cloud based load testing Loader.io is a FREE load testing service that allows you to stress test
 your web-apps & apis with thousands of concurrent connections. https://loader.io/
 
-* Bliotz - https://www.blitz.io/ Blitz will be shutting down on October 1, 2018.
+* Blitz - https://www.blitz.io/ Blitz will be shutting down on October 1, 2018.
 
 * Blazemeter - Test your API | Website | App leveraging open source tools JMeter, Selenium & Taurus. se the same DSL to configure and launch tests using any major open source performance testing tool. Validate performance at every software delivery stage. https://www.blazemeter.com/
 
