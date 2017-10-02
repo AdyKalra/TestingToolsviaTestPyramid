@@ -24,3 +24,5 @@
 
 * BrowserStack - 1100+ desktop browsers
 Latest versions of IE, Edge, Safari, Chrome, Firefox and more on a range of Windows and OS X platforms on a robust cloud infrastructure.
+https://www.browserstack.com/
+
