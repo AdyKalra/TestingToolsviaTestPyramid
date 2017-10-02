@@ -27,3 +27,5 @@ Click on each slice of the pyramid to see what tools do we have in that space
 
 <img src="https://user-images.githubusercontent.com/8856857/30575777-696b75de-9d46-11e7-89e4-53a43c286969.JPG">
 
+# Non Functional Testing - Performance Security
+* [NFR](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/NFR.md)
