@@ -26,6 +26,8 @@
 Latest versions of IE, Edge, Safari, Chrome, Firefox and more on a range of Windows and OS X platforms on a robust cloud infrastructure.
 https://www.browserstack.com/
 
+* Crossbrowsertesting - all-in-one web testing platform. Run parallel automated tests, compare screenshots, and remotely debug on 1500+ real desktop and mobile browsers. https://crossbrowsertesting.com/
+
 ### ScreenDiff
 * BackTrac - Monitor visual changes on your website - http://backtrac.io/
 
