@@ -26,3 +26,5 @@
 Latest versions of IE, Edge, Safari, Chrome, Firefox and more on a range of Windows and OS X platforms on a robust cloud infrastructure.
 https://www.browserstack.com/
 
+### ScreenDiff
+* BackTrac - Monitor visual changes on your website
