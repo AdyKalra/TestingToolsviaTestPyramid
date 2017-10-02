@@ -46,6 +46,8 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 
 * Crossbrowsertesting - all-in-one web testing platform. Run parallel automated tests, compare screenshots, and remotely debug on 1500+ real desktop and mobile browsers. https://crossbrowsertesting.com/
 
+* TestAnywhere - Simple tool for testing your product frontend with no need to integrate or write code https://testanywhere.co/
+
 ### ScreenDiff
 * BackTrac - Monitor visual changes on your website - http://backtrac.io/
 
