@@ -15,8 +15,6 @@ MbUnit is an extensible unit testing framework for the .NET Framework that takes
 
 * OpenCover - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points 
 
-* 
-
 ### Java 
 *
 
@@ -24,7 +22,16 @@ MbUnit is an extensible unit testing framework for the .NET Framework that takes
 *
 
 ### Python 
-*
+* unittest - The unittest unit testing framework was originally inspired by JUnit and has a similar flavor as major unit testing frameworks in other languages. It supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework. htps://docs.python.org/3/library/unittest.html
+
+* unittest2 - unittest2 is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards. It is tested to run on Python 2.6, 2.7, 3.2, 3.3, 3.4 and pypy. https://pypi.python.org/pypi/unittest2
+
+* pytest - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries. https://docs.pytest.org/en/latest/
+http://plugincompat.herokuapp.com/
+
+* nose - nose extends unittest to make testing easier.https://nose.readthedocs.io/en/latest/
+
+* slash - Slash is a testing framework written in Python, intended for testing large scale projects, especially in integration scenarios. Slash focuses on customization and extensibility, allow you to tailor the framework for your specific needs, making it your testing framework. https://github.com/getslash/slash
 
 ### Ruby 
 *
