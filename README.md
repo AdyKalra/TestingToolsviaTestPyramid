@@ -12,6 +12,9 @@ Click on each slice of the pyramid to see what tools do we have in that space
 # Reporting Framework
 * [Reporting](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/Reporting.md)
 
+# Continuous Integration
+* [Continuous Integration](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/ContinuousIntegration.md)
+
 # Non Functional Testing - Performance Security
 * [NFR](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/NFR.md)
 
