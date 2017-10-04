@@ -33,6 +33,17 @@ http://plugincompat.herokuapp.com/
 
 * slash - Slash is a testing framework written in Python, intended for testing large scale projects, especially in integration scenarios. Slash focuses on customization and extensibility, allow you to tailor the framework for your specific needs, making it your testing framework. https://github.com/getslash/slash
 
+* Proboscis - Proboscis is a Python test framework that extends Python’s built-in unittest module and Nose with features from TestNG. https://pythonhosted.org/proboscis/
+
+* Trial - Trial is Twisted's unit testing system, an extension of ​Python's `unittest` module.
+Trial is two things. The first is a command-line test runner, which can be run on plain Python unit tests. It's very simple to use http://twistedmatrix.com/trac/wiki/TwistedTrial
+
+* subunit - Subunit is a streaming protocol for test results. The protocol is a binary encoding that is easily generated and parsed. By design all the components of the protocol conceptually fit into the xUnit TestCase->TestResult interaction. https://launchpad.net/subunit
+
+* Pythoscope - Pythoscope is a unit test generator for programs written in Python. http://pythoscope.org/
+
+* dutest - An object-oriented API to test doctests using unittest runners. https://pypi.python.org/pypi/dutest
+
 ### Ruby 
 *
 
