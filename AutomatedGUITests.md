@@ -30,6 +30,8 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 ### Python 
 * Grail - Grail is a library which allows test script creation based on steps. It helps to structure your tests and get rid of additional test documentation for your code https://github.com/wgnet/grail
 
+* pytest - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries https://docs.pytest.org/en/latest/
+
 ### Ruby 
 *
 
