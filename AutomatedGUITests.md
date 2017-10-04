@@ -21,6 +21,12 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 
 * AutoIt - Automation using COM
 
+* FlaUI - UI automation library for .Net https://github.com/Roemer/FlaUI
+
+* WinAppDriver - Windows Application Driver is a service to support Selenium-like UI Test Automation on Windows Applications. This service supports testing Universal Windows Platform (UWP) and Classic Windows (Win32) apps on Windows 10 PCs https://github.com/Microsoft/WinAppDriver
+
+* Progress Testing Framework - Use the Progress Test Studio plugin for Visual Studio to create robust automated tests for almost any web and desktop app: HTML5, XAML, AJAX and MVC. Record and run tests against multiple browsers: Internet Explorer, Firefox, Chrome and Safari. Then further customize and extend them in C# or VB.NET. Easily update elements across all your test cases by using the Elements explorer. Debug both code via Visual Studio and recorded steps via the Test Studio Visual Debugger. http://www.telerik.com/teststudio/testing-framework
+
 ### Java 
 *
 
