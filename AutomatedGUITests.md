@@ -32,6 +32,11 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 
 * pytest - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries https://docs.pytest.org/en/latest/
 
+* green - Green is a clean, colorful, fast python test runner. https://github.com/CleanCut/green
+
+* ddt- Data-Driven Tests  https://github.com/txels/ddt
+
+* pytractor - Python selenium extensions for testing angular.js apps  https://github.com/kpodl/pytractor
 ### Ruby 
 *
 
