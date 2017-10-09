@@ -9,10 +9,9 @@ Click on each slice of the pyramid to see what tools do we have in that space
 * [Automated Component Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedComponentTests.md)
 * [Automated Unit Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedUnitTests.md)
 
-# Reporting Framework
+# Framework - Reporting / CI / LiveDoc 
 * [Reporting](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/Reporting.md)
-
-# Continuous Integration
+* [Documentation](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/Documentation.md)
 * [Continuous Integration](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/ContinuousIntegration.md)
 
 # Non Functional Testing - Performance Security
