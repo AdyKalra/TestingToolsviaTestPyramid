@@ -1,5 +1,7 @@
 ### C# 
-* 
+* Newtonsoft.Json - Json.NET is a popular high-performance JSON framework for .NET https://www.nuget.org/packages/Newtonsoft.Json/
+
+* RestSharp - Simple REST and HTTP API Client https://www.nuget.org/packages/RestSharp/
 
 ### Java 
 *
