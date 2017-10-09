@@ -15,8 +15,10 @@ MbUnit is an extensible unit testing framework for the .NET Framework that takes
 
 * OpenCover - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points 
 
+* XMLUnit - Unit Testing XML for Java and .NET http://www.xmlunit.org/
+
 ### Java 
-*
+* XMLUnit - Unit Testing XML for Java and .NET http://www.xmlunit.org/
 
 ### JavaScript 
 *
