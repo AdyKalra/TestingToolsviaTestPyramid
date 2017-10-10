@@ -7,3 +7,5 @@
 * Smartbear - Automated UI Testing Tool https://smartbear.com/
 
 * Unified Functional Testing (UFT) - Make automated testing more efficient and help developers and testers collaborate. This functional automated testing software—formerly QuickTest Professional (QTP)—helps deliver quality software at the speed your business needs - https://software.microfocus.com/en-us/software/uft
+
+* Go Grid Router (aka Ggr) is a lightweight active load balancer used to create scalable and highly-available Selenium clusters. https://github.com/aandryashin/ggr
