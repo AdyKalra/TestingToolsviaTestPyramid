@@ -12,6 +12,8 @@ your web-apps & apis with thousands of concurrent connections. https://loader.io
 
 * Perfomatic - The Mozilla graph server is used to understand how multiple performance metrics change over time. It is a web application for creating graphs of performance test results for a user-configurable combination of branch, operating system and machine.https://wiki.mozilla.org/Perfomatic
 
+* Go Grid Router (aka Ggr) is a lightweight active load balancer used to create scalable and highly-available Selenium clusters. https://github.com/aandryashin/ggr
+
 ### Security
 * NetCraft - Web Application Security Testing. Netcraft’s Web Application Testing service is an internet security audit, performed by experienced security professionals. A key feature of the service, and one which cannot be covered by relying solely on automated testing, is application testing.https://www.netcraft.com/security-testing/web-application/
 
