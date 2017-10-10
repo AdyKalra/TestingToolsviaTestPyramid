@@ -23,3 +23,6 @@ your web-apps & apis with thousands of concurrent connections. https://loader.io
 FOR SYSADMINS, NETWORK ENGINEERS,DEVOPS AND SECURITY PROS.We have 12 different online security scanners that test different areas of the security assessment cycle; including information gathering, application discovery, network mapping and vulnerability discovery. https://hackertarget.com/
 
 * ScanMyServer - Test the Security of Your Website or Blog - Free https://www.scanmyserver.com/
+
+* k6 - A modern load testing tool, using Go and JavaScript - https://k6.io  https://github.com/loadimpact/k6
+
