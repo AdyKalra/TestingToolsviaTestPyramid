@@ -9,3 +9,7 @@
 * Unified Functional Testing (UFT) - Make automated testing more efficient and help developers and testers collaborate. This functional automated testing software—formerly QuickTest Professional (QTP)—helps deliver quality software at the speed your business needs - https://software.microfocus.com/en-us/software/uft
 
 * Go Grid Router (aka Ggr) is a lightweight active load balancer used to create scalable and highly-available Selenium clusters. https://github.com/aandryashin/ggr
+
+* selenoid- Alternative Selenium Hub running browsers within containers http://aerokube.com/selenoid/latest/   https://github.com/aandryashin/selenoid
+
+* RedwoodHQ - RedwoodHQ is a free Open Source test automation framework that allows multiple users to develop automation code, create readable action/keyword driven test cases and execute them all under a single Web interface. https://github.com/dmolchanenko/RedwoodHQ
