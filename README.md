@@ -10,6 +10,7 @@ Click on each slice of the pyramid to see what tools do we have in that space
 * [Automated Unit Tests](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AutomatedUnitTests.md)
 
 # Framework - Reporting / CI / LiveDoc 
+* [Agnostic Frameworks](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/AgnosticFrameworks.md)
 * [Reporting](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/Reporting.md)
 * [Documentation](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/Documentation.md)
 * [Continuous Integration](https://github.com/AdyKalra/TestingToolsviaTestPyramid/blob/master/ContinuousIntegration.md)
