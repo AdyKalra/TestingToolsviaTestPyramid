@@ -9,7 +9,14 @@
 * Testura.Android - is a lightweight test automation framework for Android built in C#. It contains tools and help classes to test, validate and interact with your Android device or emulator.
 
 ### Java 
-*
+* Appium - Native and Hybrid apps http://appium.io/
+
+* Calabash - Automated acceptance testing for mobile apps. Calabash consists of libraries that enable test code to interact programmatically with native and hybrid apps. The interaction consists of a number of end-user actions http://calaba.sh/
+
+* robotium - Android UI Testing http://www.robotium.org 
+
+*Android Test Support Library Google -  The Android Testing Support Library provides an extensive framework for testing Android apps. This library provides a set of APIs that allow you to quickly build and run test code for your apps, including JUnit 4 and functional user interface (UI) tests. You can run tests created using these APIs from the Android Studio IDE or from the command line.
+The documentation on this site has been moved to: developers.android.com/testing. 
 
 ### JavaScript 
 *
