@@ -24,3 +24,5 @@
 * pict Pairwise Independent Combinatorial Tool - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design. https://github.com/Microsoft/pict
 
 * GraphWalker - GraphWalker is an open source Model-based testing tool for test automation. It's designed to make it easy to design your tests using graphs http://graphwalker.github.io/
+
+* stevia - Stevia is an Open Source QA Automation Testing Framework by Persado (www.persado.com) http://www.persado.com https://github.com/persado/stevia
