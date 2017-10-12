@@ -20,6 +20,12 @@ MbUnit is an extensible unit testing framework for the .NET Framework that takes
 ### Java 
 * XMLUnit - Unit Testing XML for Java and .NET http://www.xmlunit.org/
 
+* Junit - The new major version of the programmer-friendly testing framework for Java 8 JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.http://junit.org/junit5/
+
+* TestNG - TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use http://testng.org/doc/ 
+
+* test-data-supplier - Extended TestNG DataProvider https://github.com/sskorol/test-data-supplier
+
 ### JavaScript 
 *
 
