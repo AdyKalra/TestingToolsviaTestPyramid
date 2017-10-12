@@ -32,3 +32,5 @@
 * GridRouter - Selenium-based solution to serve 1000+ browsers https://github.com/seleniumkit/gridrouter
 
 * docker-selenium-grid - Custom selenium server tweaks to support video recording within docker containers
+
+* zalenium - Allows anyone to have a disposable, flexible, Docker-based Selenium Grid infrastructure featuring video recording, live preview, basic auth & online/offline dashboards https://github.com/zalando/zalenium
