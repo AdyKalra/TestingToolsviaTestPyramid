@@ -36,6 +36,33 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 
 * spectrum - A BDD-style test runner for Java 8. Inspired by Jasmine, RSpec, and Cucumber. https://github.com/greghaskins/spectrum
 
+* Selenium - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well. http://docs.seleniumhq.org/
+
+* Sikulix - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on. http://www.sikulix.com/
+
+* sikuli-factory - A based PageFactory model for SikuliX. https://github.com/marcoslimaqa/sikuli-factory
+
+* selenide - Selenide is a framework for test automation powered by Selenium WebDriver  http://selenide.org/
+
+* Selenified - The Selenified Test Framework provides mechanisms for simply testing applications at multiple tiers while easily integrating into DevOps build environments. Selenified provides traceable reporting for both web and API testing, wraps and extends Selenium calls to more appropriately handle testing errors, and supports testing over multiple browser https://github.com/Coveros/selenified
+
+* SERENITY - Serenity BDD helps you write better, more effective automated acceptance tests, and use these acceptance tests to produce world-class test reports and living documentation http://www.thucydides.info/#/
+
+* htmlelements - Html Elements is a Java framework providing easy-to-use way of interaction with web-page elements in web-page tests. http://htmlelements.qatools.ru
+
+* darcy framework - Darcy is an open source Java 8 framework for modeling user interfaces as page objects with a declarative, automation-library-agnostic DSL. https://github.com/darcy-framework
+
+* JDI - JDI is the test Framework for UI test automation https://github.com/epam/JDI/
+
+* Geb - Very Groovy browser automation. Web Testing, Screen Scraping and more http://gebish.org/ Geb is a browser automation solution.
+It brings together the power of WebDriver, the elegance of jQuery content selection, the robustness of Page Object modelling and the expressiveness of the Groovy language. It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit & TestNG.
+
+* FluentLenium - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser. http://fluentlenium.org https://github.com/FluentLenium/FluentLenium
+
+* SeLion - Enabling Test Automation in Java http://selion.io https://github.com/paypal/SeLion
+
+* video-recorder-java - This library allows easily record video of your UI tests by just putting couple annotations. http://automation-remarks.com/video-r… https://github.com/SergeyPirogov/video-recorder-java
+
 ### JavaScript 
 *
 
