@@ -22,3 +22,5 @@
 * Rapise - Rapise provides a complete automated testing solution that can handle all of your technologies in one environment. With support for web, mobile and desktop applications and a wide variety of third-party component libraries. https://www.inflectra.com/Rapise/
 
 * pict Pairwise Independent Combinatorial Tool - PICT generates test cases and test configurations. With PICT, you can generate tests that are more effective than manually generated tests and in a fraction of the time required by hands-on test case design. https://github.com/Microsoft/pict
+
+* GraphWalker - GraphWalker is an open source Model-based testing tool for test automation. It's designed to make it easy to design your tests using graphs http://graphwalker.github.io/
