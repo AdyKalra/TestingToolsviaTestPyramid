@@ -26,3 +26,9 @@
 * GraphWalker - GraphWalker is an open source Model-based testing tool for test automation. It's designed to make it easy to design your tests using graphs http://graphwalker.github.io/
 
 * stevia - Stevia is an Open Source QA Automation Testing Framework by Persado (www.persado.com) http://www.persado.com https://github.com/persado/stevia
+
+* Selenium Grid Extensions - et of Selenium Grid extensions for a better UI tests. https://github.com/sterodium/selenium-grid-extensions
+
+* GridRouter - Selenium-based solution to serve 1000+ browsers https://github.com/seleniumkit/gridrouter
+
+* docker-selenium-grid - Custom selenium server tweaks to support video recording within docker containers
