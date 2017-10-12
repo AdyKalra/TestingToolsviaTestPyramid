@@ -4,7 +4,7 @@
 * RestSharp - Simple REST and HTTP API Client https://www.nuget.org/packages/RestSharp/
 
 ### Java 
-*
+* Selenified - The Selenified Test Framework provides mechanisms for simply testing applications at multiple tiers while easily integrating into DevOps build environments. Selenified provides traceable reporting for both web and API testing, wraps and extends Selenium calls to more appropriately handle testing errors, and supports testing over multiple browser https://github.com/Coveros/selenified
 
 ### JavaScript 
 * Postman BDD - The Postman REST client allows you to write tests for your APIs, such as ensuring that your endpoints return the proper HTTP status codes, headers, and content. It even has has a built-in test runner that makes it easy to run all of your tests and immediately see the results. And you can use the Newman command-line tool to automate your tests and integrate them into your CI and deployment pipeline. https://www.npmjs.com/package/postman-bdd
