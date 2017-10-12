@@ -1,4 +1,3 @@
-
 * Jenkins - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. https://jenkins.io/index.html
 
 * teamcity - Powerful Continuous Integration out of the box https://www.jetbrains.com/teamcity/
