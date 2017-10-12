@@ -28,7 +28,13 @@ Selenium WebDriver API, which uses native OS-level events to manipulate the brow
 * Progress Testing Framework - Use the Progress Test Studio plugin for Visual Studio to create robust automated tests for almost any web and desktop app: HTML5, XAML, AJAX and MVC. Record and run tests against multiple browsers: Internet Explorer, Firefox, Chrome and Safari. Then further customize and extend them in C# or VB.NET. Easily update elements across all your test cases by using the Elements explorer. Debug both code via Visual Studio and recorded steps via the Test Studio Visual Debugger. http://www.telerik.com/teststudio/testing-framework
 
 ### Java 
-*
+* JBehave - JBehave is a framework for Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design, and is intended to make these practices more accessible and intuitive to newcomers and experts alike. It shifts the vocabulary from being test-based to behaviour-based, and positions itself as a design philosophy. http://jbehave.org/
+
+* cucumber-jvm Cucumber for the JVM https://cucumber.io https://github.com/cucumber/cucumber-jvm
+
+* JGiven - Behavior-Driven Development in plain Java http://jgiven.org https://github.com/TNG/JGiven
+
+* spectrum - A BDD-style test runner for Java 8. Inspired by Jasmine, RSpec, and Cucumber. https://github.com/greghaskins/spectrum
 
 ### JavaScript 
 *
