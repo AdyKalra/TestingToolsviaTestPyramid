@@ -2,11 +2,22 @@
 * Loader - Simple cloud based load testing Loader.io is a FREE load testing service that allows you to stress test
 your web-apps & apis with thousands of concurrent connections. https://loader.io/
 
+* The Apache JMeter™  - application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions. http://jmeter.apache.org/
+
+* Gatling - Performance testing for web applications consists in: 1/ simulating a large number of users with complex behaviors
+2/ collecting and aggregating all the requests' response times
+3/ creating reports & analyzing data
+
 * Blitz - https://www.blitz.io/ Blitz will be shutting down on October 1, 2018.
+
+* The Grinder - a Java Load Testing Framework http://grinder.sourceforge.net/
 
 * Blazemeter - Test your API | Website | App leveraging open source tools JMeter, Selenium & Taurus. se the same DSL to configure and launch tests using any major open source performance testing tool. Validate performance at every software delivery stage. https://www.blazemeter.com/
 
 * Load Impact - cloud based load testing for developers https://loadimpact.com/
+
+* Tsung - Tsung is an open-source multi-protocol distributed load testing tool
+It can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP, MQTT and Jabber/XMPP servers. Tsung is a free software released under the GPLv2 license. http://tsung.erlang-projects.org/
 
 * Sitespeed - Sitespeed.io is a set of Open Source tools that helps make your web pages faster. The coach gives you performance advice based on best practices for your site. Browsertime collects metrics and HAR files from your browser. Chrome-HAR creates a HAR file from Chrome Debugging Protocol data. Compare makes it easy to find regressions comparing HAR files. PageXray converts a HAR file to a usable JSON structure that tells you more about your page. And finally sitespeed.io is the main tool that uses all the previously mentioned tools and add supports for testing multiple pages as well as adds the ability to report the metrics to a TSDB (Graphite and InfluxDB). https://www.sitespeed.io/
 
