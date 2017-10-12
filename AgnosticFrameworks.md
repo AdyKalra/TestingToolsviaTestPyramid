@@ -1,6 +1,7 @@
 * Gauge - Gauge is a light-weight cross-platform test automation tool with the ability to author test cases in the business language. https://getgauge.io/
 
 * ROBOT FRAMEWORK - Generic test automation framework for acceptance testing and ATDD http://robotframework.org/
+* awesome-robotframework - A curated list of awesome Robot Framework resources and libraries https://github.com/fkromer/awesome-robotframework
 
 * Ranorex - Test Automation for Everyone Record your daily tests – step by step – with Ranorex's matchless GUI object recognition.https://www.ranorex.com/
 
