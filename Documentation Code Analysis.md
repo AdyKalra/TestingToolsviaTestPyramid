@@ -15,3 +15,5 @@ Doxygen is the de facto standard tool for generating documentation from annotate
 * gradle-quality-plugin - Gradle quality plugin for Java and Groovy https://github.com/xvik/gradle-quality-plugin
 
 * JaCoCo - Java Code Coverage Library http://jacoco.org/jacoco/ https://github.com/jacoco/jacoco
+
+* vavr - Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality. http://vavr.io https://github.com/vavr-io/vavr
