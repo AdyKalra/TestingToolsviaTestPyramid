@@ -76,6 +76,27 @@ It brings together the power of WebDriver, the elegance of jQuery content select
 * ddt- Data-Driven Tests  https://github.com/txels/ddt
 
 * pytractor - Python selenium extensions for testing angular.js apps  https://github.com/kpodl/pytractor
+
+* behave - behave is behaviour-driven development, Python style https://pypi.python.org/pypi/behave 
+
+* Lettuce  - BDD tool - http://lettuce.it/
+
+* Lettuce Tools - Lettuce Tools are a set of tools and utilities that extend the lettuce out of the box features fill some of the gaps detected in the projects. https://github.com/telefonicaid/lettuce-tools
+
+* Contexts - Descriptive testing for Python https://github.com/benjamin-hodgson/Contexts 
+
+* mamba: the definitive testing tool for Python http://nestorsalceda.github.io/mamba/
+
+* pytest - BDD library for the py.test runner https://github.com/pytest-dev/pytest-bdd
+
+* radish - Behavior Driven Development tool for Python - the root from red to green http://radish-bdd.io
+https://github.com/radish-bdd/radish
+
+* pyshould - Should style asserts based on pyhamcrest https://github.com/drslump/pyshould
+
+* sure - idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js http://sure.readthedocs.io/en/latest/ https://github.com/gabrielfalcao/sure
+
+
 ### Ruby 
 *
 
