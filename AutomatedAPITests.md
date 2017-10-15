@@ -21,7 +21,23 @@ WireMock is a simulator for HTTP-based APIs. Some might consider it a service vi
 * Postman BDD - The Postman REST client allows you to write tests for your APIs, such as ensuring that your endpoints return the proper HTTP status codes, headers, and content. It even has has a built-in test runner that makes it easy to run all of your tests and immediately see the results. And you can use the Newman command-line tool to automate your tests and integrate them into your CI and deployment pipeline. https://www.npmjs.com/package/postman-bdd
 
 ### Python 
-*
+* mock - Rolling backport of unittest.mock for all Pythons https://pypi.python.org/pypi/mock
+
+* ludibrio - Platform for test doubles in Python (mocks, stubs, Spy, and dummies) https://github.com/nsigustavo/ludibrio/
+
+* responses - A utility for mocking out the Python Requests library. https://github.com/getsentry/responses
+
+* doublex - Powerful test doubles framework for Python https://pypi.python.org/pypi/doublex
+
+* freezegun - Let your Python tests travel through time https://github.com/spulec/freezegun
+
+* httmock - A mocking library for requests 
+
+* pretenders - Fake servers for testing http://pretenders.readthedocs.org/ https://github.com/pretenders/pretenders
+
+* mock-server - Simple mock server for REST API http://tomashanacek.github.com/mock-s… https://github.com/tomashanacek/mock-server 
+
+* vcrpy - Automatically mock your HTTP interactions to simplify and speed up testing https://github.com/kevin1024/vcrpy
 
 ### Ruby 
 *
