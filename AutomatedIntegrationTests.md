@@ -10,6 +10,18 @@
 ### Python 
 * slash - Slash is a testing framework written in Python, intended for testing large scale projects, especially in integration scenarios. Slash focuses on customization and extensibility, allow you to tailor the framework for your specific needs, making it your testing framework. https://github.com/getslash/slash
 
+* Faker: The Python tool to generate localized random data http://joke2k.net/faker/
+
+* ForgeryPy - An easy to use forged data generator for Python https://pypi.python.org/pypi/ForgeryPy
+
+* radar 0.3 - Generate random date(time).  https://pypi.python.org/pypi/radar
+
+* hypothesis-python - Advanced property-based (QuickCheck-like) testing for Python http://hypothesis.works https://github.com/HypothesisWorks/hypothesis-python
+
+* factory_boy - A test fixtures replacement for Python https://factoryboy.readthedocs.io/  https://github.com/FactoryBoy/factory_boy
+
+* fauxfactory - Generates random data for your tests. https://github.com/omaciel/fauxfactory
+
 ### Ruby 
 *
 
