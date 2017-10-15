@@ -52,6 +52,8 @@ Trial is two things. The first is a command-line test runner, which can be run o
 
 * dutest - An object-oriented API to test doctests using unittest runners. https://pypi.python.org/pypi/dutest
 
+* assertpy Dead simple assertion library for unit testing in python with a fluent API  https://github.com/ActivisionGameScience/assertpy
+
 ### Ruby 
 *
 
