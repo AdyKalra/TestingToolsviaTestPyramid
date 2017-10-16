@@ -96,7 +96,28 @@ https://github.com/radish-bdd/radish
 
 * sure - idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js http://sure.readthedocs.io/en/latest/ https://github.com/gabrielfalcao/sure
 
+* selenium - https://pypi.python.org/pypi/selenium
 
+* splinter - splinter - python test framework for web applications http://splinter.readthedocs.org/en/la… https://github.com/cobrateam/splinter
+
+* mechanize - Stateful programmatic web browsing. Stateful programmatic web browsing, after Andy Lester’s Perl module WWW::Mechanize.
+https://pypi.python.org/pypi/mechanize/
+
+* py.saunter - sample framework for using selenium with python and page objects https://github.com/element-34/py.saunter
+
+* pytest-mozwebqa - Mozilla WebQA plugin for py.test. https://github.com/davehunt/pytest-mozwebqa 
+
+* wtframework - Framework for configurable Web Tests in Python.
+
+* holmium.core - Page objects & Utilities for writing selenium test cases. https://holmiumcore.readthedocs.org/e… https://github.com/alisaifee/holmium.core
+
+* gocept.selenium - Test-friendly Python API for Selenium and integration with web application frameworks. https://pypi.python.org/pypi/gocept.selenium
+
+* webium - Webium is a Page Object pattern implementation library for Python (http://martinfowler.com/bliki/PageObject.html). It allows you to extend WebElement class to your custom controls like Link, Button and group them as pages. https://github.com/wgnet/webium 
+
+* robotframework-anywherelibrary - AnywhereLibrary is a cross platform(desktop browser,Android,iOS) testing library for Robot Framework that leverages the [Selenium 2(WebDriver)] libraries internally to control a web browser and [appium] as mobile test automation framework for use with native and hybrid app.https://github.com/luisxiaomai/robotframework-anywherelibrary
+
+* elementium - jQuery-style syntactic sugar for highly reliable automated browser testing in Python https://github.com/actmd/elementium
 ### Ruby 
 *
 
