@@ -21,6 +21,8 @@ WireMock is a simulator for HTTP-based APIs. Some might consider it a service vi
 * Postman BDD - The Postman REST client allows you to write tests for your APIs, such as ensuring that your endpoints return the proper HTTP status codes, headers, and content. It even has has a built-in test runner that makes it easy to run all of your tests and immediately see the results. And you can use the Newman command-line tool to automate your tests and integrate them into your CI and deployment pipeline. https://www.npmjs.com/package/postman-bdd
 
 ### Python 
+* Selenium Requests - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling. https://github.com/cryzed/Selenium-Requests
+
 * mock - Rolling backport of unittest.mock for all Pythons https://pypi.python.org/pypi/mock
 
 * ludibrio - Platform for test doubles in Python (mocks, stubs, Spy, and dummies) https://github.com/nsigustavo/ludibrio/
