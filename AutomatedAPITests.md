@@ -23,6 +23,8 @@ WireMock is a simulator for HTTP-based APIs. Some might consider it a service vi
 ### Python 
 * Selenium Requests - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling. https://github.com/cryzed/Selenium-Requests
 
+* selenium-respectful - Minimalist Selenium WebDriver wrapper to work within rate limits of any amount of websites simultaneously. Parallel processing friendly. https://github.com/SerpentAI/selenium-respectful
+
 * mock - Rolling backport of unittest.mock for all Pythons https://pypi.python.org/pypi/mock
 
 * ludibrio - Platform for test doubles in Python (mocks, stubs, Spy, and dummies) https://github.com/nsigustavo/ludibrio/
