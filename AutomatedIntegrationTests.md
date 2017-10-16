@@ -10,6 +10,8 @@
 ### Python 
 * slash - Slash is a testing framework written in Python, intended for testing large scale projects, especially in integration scenarios. Slash focuses on customization and extensibility, allow you to tailor the framework for your specific needs, making it your testing framework. https://github.com/getslash/slash
 
+* HITCH TEST - Loosely coupled integration testing framework http://hitchtest.com/
+
 * Faker: The Python tool to generate localized random data http://joke2k.net/faker/
 
 * ForgeryPy - An easy to use forged data generator for Python https://pypi.python.org/pypi/ForgeryPy
