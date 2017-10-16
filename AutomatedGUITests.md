@@ -118,6 +118,37 @@ https://pypi.python.org/pypi/mechanize/
 * robotframework-anywherelibrary - AnywhereLibrary is a cross platform(desktop browser,Android,iOS) testing library for Robot Framework that leverages the [Selenium 2(WebDriver)] libraries internally to control a web browser and [appium] as mobile test automation framework for use with native and hybrid app.https://github.com/luisxiaomai/robotframework-anywherelibrary
 
 * elementium - jQuery-style syntactic sugar for highly reliable automated browser testing in Python https://github.com/actmd/elementium
+
+* Slick Webdriver Python - The slick-webdriver-python project (source on github, package available from pypi) is a wrapper around the python webdriver client bindings. http://www.slickqa.com/webdriver/python/ 
+
+* selene - Concise UI tests in Python + Ajax support + PageObjects https://github.com/yashaka/selene/
+
+* Needle  - Needle is a tool for testing your CSS and visuals with Selenium and nose. http://needle.readthedocs.io/en/latest/
+
+* PyPOM - Python page object model for Selenium https://github.com/mozilla/PyPOM
+
+* POM is Page-Object-Model microframework to develop web UI tests easy, quickly and with pleasure. https://github.com/schipiga/pom
+
+* Websmith - A Domain Specific Language (DSL) for Web UI Testing. https://github.com/omaciel/websmith
+
+* pages - pages is a lightweight page object and component Python library for UI tests. https://github.com/Skyscanner/pages
+
+* widgetastic.core - Widgetastic is a Python library designed to abstract out web UI widgets into a nice object-oriented layer. This library includes the core classes and some basic widgets that are universal enough to exist in this core repository. https://github.com/nextQE/widgetastic.core
+
+* navmazing - Simple navigation framework supporting complex designs https://github.com/nextQE/navmazing
+
+* nightwatch - UI Automated Testing Framework using Python and Selenium. Influenced by nightwatch.js https://github.com/nextQE/nightwatch
+
+* pytest splinter - and selenium integration for anyone interested in browser interaction in tests https://github.com/pytest-dev/pytest-splinter
+
+* lettuce_webdriver - selenium for lettuce https://github.com/bbangert/lettuce_webdriver
+
+* browsermob-proxy-py - A python wrapper for Browsermob Proxy http://oss.theautomatedtester.co.uk/b… https://github.com/AutomatedTester/browsermob-proxy-py
+
+* FireRobot - FireRobot is a Firefox extension that allows you to create Robot Framework/Selenium tests, in a more efficient way. Check the demonstration videos on YouTube or keep reading:
+
+* Mailosaur - Mailosaur allows you to automate tests involving email. Allowing you to perform end-to-end automated and functional email testing. https://github.com/mailosaur/mailosaur-python
+
 ### Ruby 
 *
 
