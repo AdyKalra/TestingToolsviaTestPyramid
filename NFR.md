@@ -27,6 +27,16 @@ It can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP, MQTT and J
 
 * k6 - A modern load testing tool, using Go and JavaScript - https://k6.io  https://github.com/loadimpact/k6
 
+* locust - Scalable user load testing tool written in Python http://locust.io https://github.com/locustio/locust
+
+* yandex-tank - Load and performance benchmark tool https://github.com/yandex/yandex-tank
+
+* pytest-benchmark - py.test fixture for benchmarking code  https://github.com/ionelmc/pytest-benchmark
+
+* Airspeed Velocity: A simple Python benchmarking tool with web-based reporting http://asv.readthedocs.io/ https://github.com/spacetelescope/asv 
+
+* tAURUS - Automation-friendly framework for Continuous Testing http://gettaurus.org/ 
+
 ### Security
 * NetCraft - Web Application Security Testing. Netcraft’s Web Application Testing service is an internet security audit, performed by experienced security professionals. A key feature of the service, and one which cannot be covered by relying solely on automated testing, is application testing.https://www.netcraft.com/security-testing/web-application/
 
@@ -39,3 +49,7 @@ FOR SYSADMINS, NETWORK ENGINEERS,DEVOPS AND SECURITY PROS.We have 12 different o
 
 * glue - Application Security Automation - Glue is a framework for running a series of tools. Generally, it is intended as a backbone for automating a security analysis pipeline of tools.  https://github.com/OWASP/glue
 
+* SPARTA is a python GUI application which simplifies network infrastructure penetration testing by aiding the penetration tester in the scanning and enumeration phase. It allows the tester to save time by having point-and-click access to his toolkit and by displaying all tool output in a convenient way. If little time is spent setting up commands and tools, more time can be spent focusing on analysing results. http://sparta.secforce.com/ 
+
+* pythem Penetration Testing Framework
+pythem is a multi-purpose pentest framework written in Python. It has been developed to be used by security researchers and security professionals. The tool intended to be used only for acts within the law. I am not liable for any undue and unlawful act practiced by this tool, for more information, read the license. Only runs on GNU/Linux OS. https://github.com/m4n3dw0lf/PytheM 
