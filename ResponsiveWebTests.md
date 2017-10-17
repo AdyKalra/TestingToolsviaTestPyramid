@@ -42,3 +42,5 @@ Hive Runner - This is the component that detects devices and runs the tests. You
 Hive Mind - This is the device database. Though not essential for the running of Hive CI it enables better monitoring and control of devices. http://bbc.github.io/hive-ci/
 
 * Testmunk - automates mobile app testing https://testmunk.com/
+
+* GhostLab - mirror the master device to all other screens. https://www.vanamco.com/ghostlab/
