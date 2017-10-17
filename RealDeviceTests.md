@@ -22,7 +22,9 @@ The documentation on this site has been moved to: developers.android.com/testing
 *
 
 ### Python 
-*
+* Appium - Native and Hybrid apps http://appium.io/
+
+* uiautomator - This module is a Python wrapper of Android uiautomator testing framework. It works on Android 4.1+ simply with Android device attached via adb, no need to install anything on Android device. https://github.com/xiaocong/uiautomator
 
 ### Ruby 
 *
