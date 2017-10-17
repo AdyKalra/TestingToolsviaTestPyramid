@@ -41,3 +41,9 @@ https://pypi.python.org/pypi/flake8
 * hacking - OpenStack Hacking Style Checks http://openstack.org https://github.com/openstack-dev/hacking
 
 * prospector - Inspects Python source files and provides information about type and location of classes, methods etc https://github.com/landscapeio/prospector
+
+* Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license. http://www.sphinx-doc.org/en/stable/
+
+* MkDocs - MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
+
+* 
