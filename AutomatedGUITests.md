@@ -172,7 +172,20 @@ https://pypi.python.org/pypi/ldtp
 *  pyatom- Python Automated Testing on Mac http://pyatom.com/ https://github.com/pyatom/pyatom
 
 ### Ruby 
-*
+* RR is a test double framework that features a rich selection of double techniques and a terse syntax. http://rr.github.com/rr
+
+* rspec - Behaviour Driven Development for Ruby. Making TDD Productive and Fun. http://rspec.info/
+
+* Cucumber - https://cucumber.io/
+
+* Bacon - a small RSpec clone http://rubyforge.org/projects/test-spec/
+
+* minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking. http://docs.seattlerb.org/minitest/ https://github.com/seattlerb/minitest
+
+* Spinach is a BDD framework on top of Gherkin. http://codegram.github.com/spinach https://github.com/codegram/spinach 
+
+* shoulda - Makes tests easy on the fingers and the eyes http://www.thoughtbot.com/community
+Collection of testing matchers extracted from Shoulda http://matchers.shoulda.io
 
 ### PHP 
 *
