@@ -163,6 +163,14 @@ https://pypi.python.org/pypi/mechanize/
 
 * Sikuli  - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
 
+* Linux Desktop (GUI Application) Testing Project - Cross Platform GUI Automation tool Linux version is LDTP, Windows version is Cobra and Mac version is PyATOM.
+Linux GUI testing is known to work on GNOME / KDE (QT >= 4.8) / Java Swing / LibreOffice / Mozilla application on all major Linux distribution
+Windows GUI testing is known to work on application written in .NET / C++ / Java / QT on Windows XP SP3 / Vista SP2 / Windows 7 / Windows 8 development version
+Mac GUI testing is known to work on OS X Snow Leopard/Lion/Mountain Lion. Where ever ATOMac runs, LDTP should work on it
+https://pypi.python.org/pypi/ldtp
+
+*  pyatom- Python Automated Testing on Mac http://pyatom.com/ https://github.com/pyatom/pyatom
+
 ### Ruby 
 *
 
