@@ -55,7 +55,14 @@ Trial is two things. The first is a command-line test runner, which can be run o
 * assertpy Dead simple assertion library for unit testing in python with a fluent API  https://github.com/ActivisionGameScience/assertpy
 
 ### Ruby 
-*
+* Test::Unit Test::Unit is an implementation of the xUnit testing framework for Ruby.
+If you are writing new test code, please use MiniTest instead of Test::Unit.
+Test::Unit has been left in the standard library to support legacy test suites. http://ruby-doc.org//stdlib-2.1.5//libdoc/test/unit/rdoc/Test/Unit.html
+
+* minitest-reporters - Death to haphazard monkey-patching! Extend Minitest through simple hooks. https://github.com/kern/minitest-reporters#readme 
+
+* yard-doctest Have you ever wanted to turn your amazing code examples into something that really make sense, is always up-to-date and bullet-proof? Were looking at an amazing Python doctest? Well, look no longer!
+Meet YARD::Doctest - simple and magical gem, which automatically parses your @example tags and turn them into tests! https://github.com/p0deje/yard-doctest
 
 ### PHP 
 *
