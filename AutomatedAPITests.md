@@ -43,6 +43,13 @@ WireMock is a simulator for HTTP-based APIs. Some might consider it a service vi
 
 * vcrpy - Automatically mock your HTTP interactions to simplify and speed up testing https://github.com/kevin1024/vcrpy
 
+* Rester - Framework for testing (RESTful) HTTP APIs
+Rester allows you to test your APIs using a non-programmatic or non-GUI based approach, which are some of the more conventional ways of testing RESTFul APIs. Rester is inspired by various unit testing frameworks like JUnit, 'unittest' (python) etc and is conceptually organized like those frameworks, but is geared towards testing RESTful API endpoints. With Rester, all tests are specified in YAML or JSON. https://github.com/chitamoor/rester
+
+* pyresttest- Python Rest Testing https://github.com/svanoort/pyresttest
+
+* siesta - Sit back, relax and enjoy your REST client for python http://scastillo.github.com/siesta https://github.com/scastillo/siesta
+
 ### Ruby 
 *
 
