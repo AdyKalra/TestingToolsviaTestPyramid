@@ -15,6 +15,10 @@
 
 * ashot - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare https://github.com/yandex-qatools/ashot
 
+* HTMLTestRunner -  HTMLTestRunner is an extension to the Python standard library's unittest module. It generates easy to use HTML test reports. See a sample report here. HTMLTestRunner is released under a BSD style license. http://tungwaiyip.info/software/HTMLTestRunner.html
+
+* unittest-xml-reporting - unittest-based test runner with Ant/JUnit like XML reporting. https://github.com/xmlrunner/unittest-xml-reporting
+
 ### Cloud based Solutions
 * Browsershots - Browsershots makes screenshots of your web design in different operating systems and browsers. It is a free open-source online web application providing developers a convenient way to test their website's browser compatibility in one place. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to our central dedicated server for your review. http://browsershots.org/
 
