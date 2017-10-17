@@ -149,6 +149,20 @@ https://pypi.python.org/pypi/mechanize/
 
 * Mailosaur - Mailosaur allows you to automate tests involving email. Allowing you to perform end-to-end automated and functional email testing. https://github.com/mailosaur/mailosaur-python
 
+* Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms. https://github.com/2gis/Winium.Desktop/
+
+* PyAutoGUI - A cross-platform module for GUI automation for human beings. Control the keyboard and mouse from a Python script.https://pypi.python.org/pypi/PyAutoGUI
+
+* robotframework-autoitlibrary - AutoItLibrary is a Python keyword library that extends Robot Framework by providing keywords based on the COM interface to AutoIt, a freeware tool for automating the Windows GUI. https://code.google.com/archive/p/robotframework-autoitlibrary/
+
+* autopy - A simple, cross-platform GUI automation toolkit for Python. http://www.autopy.org https://github.com/msanders/autopy
+
+* UISoup  - This library supports UI-related testing using Python on Windows and Mac OS. (Only Python x86 is supported)
+
+* Pywinauto - pywinauto is a GUI automation library written in pure Python and well developed for Windows GUI. At its simplest it allows you to send mouse and keyboard actions to dialogs and controls on both Windows and Linux, while more complex text-based actions are supported on Windows only so far (Linux AT-SPI support is under development). http://pywinauto.github.io/ 
+
+* Sikuli  - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. It uses image recognition powered by OpenCV to identify and control GUI components. This is handy in cases when there is no easy access to a GUI's internals or the source code of the application or web page you want to act on.
+
 ### Ruby 
 *
 
