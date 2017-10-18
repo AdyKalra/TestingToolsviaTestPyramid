@@ -51,7 +51,13 @@ Rester allows you to test your APIs using a non-programmatic or non-GUI based ap
 * siesta - Sit back, relax and enjoy your REST client for python http://scastillo.github.com/siesta https://github.com/scastillo/siesta
 
 ### Ruby 
-*
+* active_mocker - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database. http://dustinzeisler.com/active_mocker/ https://github.com/zeisler/active_mocker
+
+* test_xml - Small library to test your xml with Test::Unit or RSpec https://github.com/alovak/test_xml
+
+* webmock - Library for stubbing and setting expectations on HTTP requests in Ruby.
+
+* vcr - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. http://relishapp.com/vcr/vcr https://github.com/vcr/vcr
 
 ### PHP 
 *
