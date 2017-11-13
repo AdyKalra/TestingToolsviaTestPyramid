@@ -31,6 +31,8 @@ MbUnit is an extensible unit testing framework for the .NET Framework that takes
 
 * Chai - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework. http://chaijs.com/
 
+* Wallaby.js -  runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides beautiful test and code coverage reports updated in realtime. https://wallabyjs.com/
+
 ### Python 
 * unittest - The unittest unit testing framework was originally inspired by JUnit and has a similar flavor as major unit testing frameworks in other languages. It supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework. htps://docs.python.org/3/library/unittest.html
 
