@@ -64,6 +64,8 @@ It brings together the power of WebDriver, the elegance of jQuery content select
 * video-recorder-java - This library allows easily record video of your UI tests by just putting couple annotations. http://automation-remarks.com/video-r… https://github.com/SergeyPirogov/video-recorder-java
 
 ### JavaScript 
+* Robot JS - The only Node.js first Desktop Automation Library https://robotjs.io/
+
 * Mocha - Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub. http://mochajs.org/
 
 * Chai - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework. http://chaijs.com/
