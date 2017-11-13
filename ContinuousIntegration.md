@@ -9,3 +9,9 @@
 * buildbot - PYTHON ci https://pypi.python.org/pypi/buildbot
 
 * Travis -CI - https://travis-ci.org/
+
+* Strider CD - is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license. http://strider-cd.github.io/
+
+* gulp - is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. https://gulpjs.com/
+
+* The Grunt - ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze https://gruntjs.com/
