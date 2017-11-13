@@ -30,6 +30,18 @@ Doxygen is the de facto standard tool for generating documentation from annotate
 
 * Blanket.js - is an easy to install, easy to configure, and easy to use JavaScript code coverage library that works both in-browser and with nodejs. http://blanketjs.org/
 
+* JSDoc- http://usejsdoc.org/
+
+* jsdoc-to-markdown - Creates markdown API documentation from jsdoc-commented javascript https://github.com/jsdoc2md/jsdoc-to-markdown
+
+* Docco - is a quick-and-dirty documentation generator, written in Literate CoffeeScript. It produces an HTML document that displays your comments intermingled with your code. All prose is passed through Markdown, and code is passed through Highlight.js syntax highlighting. This page is the result of running Docco against its own source file. http://ashkenas.com/docco/
+
+* Mr. Doc - Mr. Doc is a total refactoring of dox-foundation written in ES6, transformed to ES5 with Babel, and is based on dox. He can automatically generate beautiful documentations and can further spice up your documentations using themes. https://mr-doc.github.io/mr-doc/
+
+* YUIDoc - is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.http://yui.github.io/yuidoc/
+
+* ESDoc is a good documentation generator for JavaScript. https://esdoc.org/
+
 #### Python 
 
 * coverage - Code coverage measurement for Python
