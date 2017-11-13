@@ -66,7 +66,15 @@ It brings together the power of WebDriver, the elegance of jQuery content select
 * video-recorder-java - This library allows easily record video of your UI tests by just putting couple annotations. http://automation-remarks.com/video-r… https://github.com/SergeyPirogov/video-recorder-java
 
 ### JavaScript 
-*
+* Mocha - Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub. http://mochajs.org/
+
+* Chai - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework. http://chaijs.com/
+
+* Intern - Write tests in JavaScript and TypeScript using any style you like	(TDD, BDD, whatever!). https://theintern.io/
+
+* Jasmine - Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests. https://jasmine.github.io/
+
+
 
 ### Python 
 * Grail - Grail is a library which allows test script creation based on steps. It helps to structure your tests and get rid of additional test documentation for your code https://github.com/wgnet/grail
