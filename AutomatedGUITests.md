@@ -78,6 +78,45 @@ It brings together the power of WebDriver, the elegance of jQuery content select
 
 * Jest - Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases. https://facebook.github.io/jest/
 
+* WebDriverJs - The WebDriverJS library uses a promise manager to ease the pain of working with a purely asynchronous API. Rather than writing a long chain of promises, the promise manager allows you to write code as if WebDriverJS had a synchronous, blocking API (like all of the other Selenium language bindings). https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
+
+* http://webdriver.io/ WebDriver bindings for Node.js
+
+* Protractor -  is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would. http://www.protractortest.org/#/
+
+* CodeceptJS MODERN ERA ACCEPTANCE TESTING FOR NODEJShttp://codecept.io/
+
+* Nightwatch.js - Browser automated testing done easy. http://nightwatchjs.org/
+
+* DalekJS - Automated cross browser testing with JavaScript!Exterminate all the bugs! http://dalekjs.com/
+
+* Nemo.js - Launch your web sites & applications with confidence http://nemo.js.org/
+
+* TestCafe - A node.js tool to automate end-to-end web testinghttps://devexpress.github.io/testcafe/
+
+* Nightmare - A high-level browser automation library. http://www.nightmarejs.org/
+
+* Gemini - Gemini is a utility for regression testing the visual appearance of web pages. https://gemini-testing.github.io/
+
+* gremlins.js - Monkey testing library for web apps and Node.js https://github.com/marmelab/gremlins.js
+
+* puppeteer - Headless Chrome Node API https://try-puppeteer.appspot.com/ https://github.com/GoogleChrome/puppeteer
+
+* Chrome automation - made simple. Runs locally or headless on AWS Lambda. https://chromeless.netlify.com https://github.com/graphcool/chromeless
+
+* Chromy - is a library for operating headless chrome. https://github.com/OnetapInc/chromy
+
+* navalia - A bullet-proof, fast, and reliable headless browser API https://joelgriffith.github.io/navalia/
+
+* lambdium - prototype of headless chrome + selenium webdriver in AWS Lambda w/ terraform https://github.com/smithclay/lambdium
+
+* ghostjs - provides modern UI testing with async functions https://github.com/KevinGrandon/ghostjs
+
+* CasperJS - allows you to build full navigation scenarios using high-level functions and a straight forward interface to accomplish all sizes of tasks. http://casperjs.org/
+
+* Mailosaur -  allows you to automate tests involving email. Allowing you to perform end-to-end automated and functional email testing.
+https://github.com/mailosaur/mailosaur-node
+
 ### Python 
 * Grail - Grail is a library which allows test script creation based on steps. It helps to structure your tests and get rid of additional test documentation for your code https://github.com/wgnet/grail
 
