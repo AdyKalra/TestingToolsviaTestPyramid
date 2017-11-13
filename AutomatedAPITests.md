@@ -24,6 +24,8 @@ WireMock is a simulator for HTTP-based APIs. Some might consider it a service vi
 
 * apimocker - https://github.com/gstroup/apimocker node.js module to run a simple http server for mock service responses.
 
+* Frisby.js - Frisby makes REST API testing easy, fast, and fun. Frisby.js comes loaded with many built-in tools for the most common things you need to test for to ensure your REST API is working as it should, and returning the correct properties, values, and types. https://www.frisbyjs.com/
+
 ### Python 
 * Selenium Requests - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling. https://github.com/cryzed/Selenium-Requests
 
