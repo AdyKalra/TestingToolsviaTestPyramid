@@ -72,7 +72,11 @@ It brings together the power of WebDriver, the elegance of jQuery content select
 
 * Jasmine - Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests. https://jasmine.github.io/
 
+* cucumber-js - Cucumber for JavaScript https://cucumber.io/ https://github.com/cucumber/cucumber-js
 
+* Wallaby.js -  runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides beautiful test and code coverage reports updated in realtime. https://wallabyjs.com/
+
+* Jest - Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases. https://facebook.github.io/jest/
 
 ### Python 
 * Grail - Grail is a library which allows test script creation based on steps. It helps to structure your tests and get rid of additional test documentation for your code https://github.com/wgnet/grail
