@@ -26,6 +26,10 @@ Doxygen is the de facto standard tool for generating documentation from annotate
 
 * http://www.jslint.com/ 
 
+* Istanbul - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.https://github.com/gotwarlost/istanbul
+
+* Blanket.js - is an easy to install, easy to configure, and easy to use JavaScript code coverage library that works both in-browser and with nodejs. http://blanketjs.org/
+
 #### Python 
 
 * coverage - Code coverage measurement for Python
