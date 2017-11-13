@@ -19,6 +19,8 @@
 
 * unittest-xml-reporting - unittest-based test runner with Ant/JUnit like XML reporting. https://github.com/xmlrunner/unittest-xml-reporting
 
+* ReportNG - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.https://reportng.uncommons.org/
+
 ### Cloud based Solutions
 * Browsershots - Browsershots makes screenshots of your web design in different operating systems and browsers. It is a free open-source online web application providing developers a convenient way to test their website's browser compatibility in one place. When you submit your web address, it will be added to the job queue. A number of distributed computers will open your website in their browser. Then they will make screenshots and upload them to our central dedicated server for your review. http://browsershots.org/
 
