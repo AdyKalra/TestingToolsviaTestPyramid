@@ -22,6 +22,8 @@ WireMock is a simulator for HTTP-based APIs. Some might consider it a service vi
 
 * Chakram - Chakram is a REST API testing framework offering a BDD testing style and fully exploiting promi http://dareid.github.io/chakram/
 
+* apimocker - https://github.com/gstroup/apimocker node.js module to run a simple http server for mock service responses.
+
 ### Python 
 * Selenium Requests - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling. https://github.com/cryzed/Selenium-Requests
 
