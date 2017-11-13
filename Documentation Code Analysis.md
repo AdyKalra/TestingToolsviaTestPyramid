@@ -18,9 +18,13 @@ Doxygen is the de facto standard tool for generating documentation from annotate
 
 * vavr - Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality. http://vavr.io https://github.com/vavr-io/vavr
 
-####JS
+#### JS
 
-* * Pylama - Code audit tool for Python and JavaScript https://pylama.readthedocs.io/en/latest/
+* Pylama - Code audit tool for Python and JavaScript https://pylama.readthedocs.io/en/latest/
+
+* ESLint https://eslint.org/ ESLint is an open source project originally created by Nicholas C. Zakas in June 2013. Its goal is to provide a pluggable linting utility for JavaScript.
+
+* http://www.jslint.com/ 
 
 #### Python 
 
