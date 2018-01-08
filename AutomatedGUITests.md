@@ -255,8 +255,6 @@ Collection of testing matchers extracted from Shoulda http://matchers.shoulda.io
 
 * mailosaur-php - Mailosaur PHP Client Library https://mailosaur.com
 
-### Ruby 
-*
 
 ### Cloud
 * SauceLabs - ccelerate their development testing across any browser, OS and platform combination without the time and expense of managing their own lab. https://saucelabs.com/
