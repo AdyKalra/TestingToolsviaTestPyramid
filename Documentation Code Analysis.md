@@ -66,4 +66,18 @@ https://pypi.python.org/pypi/flake8
 
 * MkDocs - MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 
-* 
+#### PHP 
+
+* PHPMD - It takes a given PHP source code base and look for several potential problems within that source. https://phpmd.org/
+
+* PHP_CodeSniffer - PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards. http://pear.php.net/package/PHP_CodeS… https://github.com/squizlabs/PHP_CodeSniffer
+
+* phpdcd - Dead Code Detector (DCD) for PHP code. https://github.com/sebastianbergmann/phpdcd
+
+* php-docblock-checker - A simple tool for checking that your PHP classes and methods use docblocks. https://github.com/Block8/php-docblock-checker
+
+* PHP-Parallel-Lint - This tool check syntax of PHP files faster than serial check with fancier output. https://github.com/JakubOnderka/PHP-Parallel-Lint
+
+* PHP Depend - https://pdepend.org/
+
+* phploc - A tool for quickly measuring the size of a PHP project. https://github.com/sebastianbergmann/phploc
