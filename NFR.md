@@ -57,3 +57,5 @@ FOR SYSADMINS, NETWORK ENGINEERS,DEVOPS AND SECURITY PROS.We have 12 different o
 pythem is a multi-purpose pentest framework written in Python. It has been developed to be used by security researchers and security professionals. The tool intended to be used only for acts within the law. I am not liable for any undue and unlawful act practiced by this tool, for more information, read the license. Only runs on GNU/Linux OS. https://github.com/m4n3dw0lf/PytheM 
 
 * travis-vulnerability-scanner -  test your npm dependencies for known vulnerabilities https://github.com/ellerbrock/travis-vulnerability-scanner
+
+*  sensiolabs/security-checker - PHP frontend for security.sensiolabs.org http://security.sensiolabs.org https://github.com/sensiolabs/security-checker
