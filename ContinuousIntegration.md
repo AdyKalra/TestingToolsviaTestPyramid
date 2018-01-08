@@ -15,3 +15,5 @@
 * gulp - is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something. https://gulpjs.com/
 
 * The Grunt - ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze https://gruntjs.com/
+
+* Knapsack - Knapsack splits tests across CI nodes and makes sure that tests will run comparable time on each node. https://knapsackpro.com https://github.com/ArturT/knapsack
