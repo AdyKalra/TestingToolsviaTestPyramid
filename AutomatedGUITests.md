@@ -247,6 +247,14 @@ Collection of testing matchers extracted from Shoulda http://matchers.shoulda.io
 
 * phpSpec - A php toolset to drive emergent design by specification. http://www.phpspec.net/en/stable/
 
+* php-webdriver - A php client for webdriver. https://github.com/facebook/php-webdriver
+
+* Mink  - test that our web application behaves correctly, we need a way to simulate this interaction between the browser and the web application in our tests. We need Mink. http://mink.behat.org/en/latest/
+
+* saunter.php - (Selenium) Page Objects in PHP - https://github.com/Element-34/saunter.php
+
+* mailosaur-php - Mailosaur PHP Client Library https://mailosaur.com
+
 ### Ruby 
 *
 
