@@ -17,3 +17,9 @@
 * The Grunt - ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze https://gruntjs.com/
 
 * Knapsack - Knapsack splits tests across CI nodes and makes sure that tests will run comparable time on each node. https://knapsackpro.com https://github.com/ArturT/knapsack
+
+* PHPCI - Free and open source continuous integration specifically designed for PHP.
+
+* PHP Censor  - is an open source self-hosted continuous integration server for PHP projects. http://php-censor.info
+
+* Sismo - is a Continuous Testing Server written in PHP. Sismo does not try to do more than getting your code, running your tests, and send you notifications. Sismo is language and tool agnostic. Just give it a command that knows how to run your tests and returns a non-zero exit code when tests do not pass. https://sismo.symfony.com/
