@@ -68,10 +68,20 @@ Rester allows you to test your APIs using a non-programmatic or non-GUI based ap
 * vcr - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. http://relishapp.com/vcr/vcr https://github.com/vcr/vcr
 
 ### PHP 
-*
+* php-vfs - VFS is a virtual file system for PHP built using the stream wrapper API. Streams are exposed just as typical file:// or http:// streams are to PHP's built-in functions and keywords like fopen and require. This implementation attempts to stay true to the typical streams, including triggering warnings and handling edge cases appropriately. https://github.com/adlawson/php-vfs
+
+* vfsStream - is a stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest. http://vfs.bovigo.org/
+
+* Mockery - is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succint API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). http://docs.mockery.io
+
+* prophecy - Highly opinionated mocking framework for PHP 5.3+ https://github.com/phpspec/prophecy
+
+* Phake - PHP Mocking Framework http://phake.readthedocs.org/en/2.1/
+
+* AspectMock - The most powerful and flexible mocking framework for PHPUnit / Codeception. https://github.com/Codeception/AspectMock
 
 ### Ruby 
-*
+* 
 
 ### Cloud
 * Assertible - Assertible provides a reliable first line of defense against web service failures by providing simple and powerful assertions to test and monitor your APIs and websites. Lower the number of false positives in your automated QA tests and be confident your APIs are healthy. Assertible provides modern tools and services for ensuring the uptime and available of your APIs and websites, and the correctness of your data. https://assertible.com/
