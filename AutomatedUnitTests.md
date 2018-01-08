@@ -69,7 +69,11 @@ Test::Unit has been left in the standard library to support legacy test suites. 
 Meet YARD::Doctest - simple and magical gem, which automatically parses your @example tags and turn them into tests! https://github.com/p0deje/yard-doctest
 
 ### PHP 
-*
+* PHPUnit - PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks. https://phpunit.de/
+
+* atoum - The modern, simple and intuitive PHP unit testing framework. http://atoum.org
+
+* Infection - PHP Mutation Testing Framework https://infection.github.io/
 
 ### Ruby 
 *
